@@ -6,6 +6,6 @@
 
 Drop the .bank file into StreamingAssets
 
-**Example**F:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\StreamingAssets
+**EXAMPLE**  F:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\StreamingAssets
 
 #**Make sure to backup your files before replace the files**
