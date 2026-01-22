@@ -3,6 +3,7 @@
 #**This mod replaces weapon sound effects for most vehicles in GHPC and no mod loader needed**
 
 #**How to install**
+
 Drop the .bank file into StreamingAssets
 Example:F:\SteamLibrary\steamapps\common\Gunner HEAT PC\Bin\GHPC_Data\StreamingAssets
 
